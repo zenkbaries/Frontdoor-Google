@@ -47,3 +47,4 @@ end
 
 gem 'figaro'
 
+gem 'omniauth-google-oauth2'
